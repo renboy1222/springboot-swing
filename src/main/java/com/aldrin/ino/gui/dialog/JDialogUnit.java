@@ -4,27 +4,20 @@
  */
 package com.aldrin.ino.gui.dialog;
 
-import com.aldrin.ino.dao.CategoryDAO;
 import com.aldrin.ino.dao.UnitDAO;
 import com.aldrin.ino.gui.JFrameInoPOS;
 import com.aldrin.ino.model.Category;
 import com.aldrin.ino.model.Unit;
-import com.aldrin.ino.gui.dialog.au.JDialogAUCategory;
 import com.aldrin.ino.gui.dialog.au.JDialogAUUnit;
-import com.formdev.flatlaf.extras.FlatSVGIcon;
 import java.awt.Color;
-import java.awt.Component;
 import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.util.ArrayList;
 import java.util.List;
-import javax.swing.JButton;
 import javax.swing.JTable;
 import javax.swing.RowFilter;
-import javax.swing.UIManager;
-import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.JTableHeader;
 import javax.swing.table.TableColumn;

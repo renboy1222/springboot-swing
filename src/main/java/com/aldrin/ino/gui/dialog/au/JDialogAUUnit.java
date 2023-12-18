@@ -5,9 +5,7 @@
 package com.aldrin.ino.gui.dialog.au;
 
 import com.aldrin.ino.dao.UnitDAO;
-import com.aldrin.ino.model.Category;
 import com.aldrin.ino.model.Unit;
-import com.formdev.flatlaf.extras.FlatSVGIcon;
 import javax.swing.JOptionPane;
 
 /**

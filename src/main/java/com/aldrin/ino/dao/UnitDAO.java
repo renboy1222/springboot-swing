@@ -5,7 +5,6 @@
 package com.aldrin.ino.dao;
 
 import com.aldrin.ino.config.AppConfig;
-import com.aldrin.ino.model.Category;
 import com.aldrin.ino.model.Unit;
 import com.aldrin.ino.repository.UnitRepository;
 import java.util.ArrayList;

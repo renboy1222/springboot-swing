@@ -7,7 +7,6 @@ package com.aldrin.ino.dao;
 
 import com.aldrin.ino.config.AppConfig;
 import com.aldrin.ino.model.Category;
-import com.aldrin.ino.model.User;
 import com.aldrin.ino.repository.CategoryRepository;
 import java.util.ArrayList;
 import java.util.List;

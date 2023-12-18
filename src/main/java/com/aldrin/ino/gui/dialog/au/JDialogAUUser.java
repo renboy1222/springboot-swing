@@ -7,9 +7,7 @@ package com.aldrin.ino.gui.dialog.au;
 import com.aldrin.ino.dao.UserDAO;
 import com.aldrin.ino.gui.JFrameInoPOS;
 import com.aldrin.ino.model.User;
-import com.formdev.flatlaf.extras.FlatSVGIcon;
 import javax.swing.JOptionPane;
-import javax.swing.JTextField;
 
 /**
  *

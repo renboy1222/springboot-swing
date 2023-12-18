@@ -4,7 +4,7 @@
  */
 package com.aldrin.ino.repository;
 
-import com.aldrin.ino.model.Category;
+
 import com.aldrin.ino.model.Unit;
 import java.util.List;
 import org.springframework.data.jpa.repository.JpaRepository;
